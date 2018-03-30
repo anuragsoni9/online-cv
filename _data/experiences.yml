@@ -1,15 +1,12 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Associate Analyst(Co-Op)
+  time: Jul2017 - Present
+  company: Purdue BIZ Analytics LAB
+  details: "•	Demand Forecasting of supermarket sales: Built a production ready machine-learning solution using - Python deep learning libraries with results expecting to save inventory costs by 3%
+•	Delivery Rebate Forecast for retailers: Built a forecasting model that supports reporting of weekly expected rebate numbers in an annual tiered delivery contract. 
+•	Decision Support System for Music Producer: Implemented dashboard application that uses Spotify datasets to partially cluster songs by their popularity and revenue capability
+•	Dockerized implementation of TensorFlow solution: Created a production-like instance of an object-detection solution build using TensorFlow library on Google Cloud server using Docker and Kubernettes technology
+"
 - experience:
   role: Senior Software Engineer
   time: 2014 - 2015
